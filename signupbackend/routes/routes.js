@@ -5,7 +5,7 @@ const signUpTemplateCopy = require("../models/SignUpModels");
 router.post("/signup", (request, response) => {
   const signedUpUser = new signUpTemplateCopy({
     fullName: request.body.fullName,
-    userName: request.body.userName,
+    username: request.body.username,
     email: request.body.email,
     password: request.body.password,
   });
