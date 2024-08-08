@@ -82,7 +82,7 @@ class App extends Component {
                                 value={this.state.email}
                                 className='form-control form-group' />
 
-                            <input type="text"
+                            <input type="password"
                                 placeholder='Password'
                                 onChange={this.changePassword}
                                 value={this.state.password}
