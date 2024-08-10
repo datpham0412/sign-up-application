@@ -12,7 +12,7 @@ The **Sign-Up Application** is a simple MERN (MongoDB, Express, React, Node.js) 
 ## 🛠 Technologies Used
 
 - **MongoDB**: NoSQL database for storing user data.
-- **Express**: Web application framework for Node.js.
+- **Express**:  Web application framework for Node.js.
 - **React**: Front-end library for building user interfaces.
 - **Node.js**: JavaScript runtime for server-side programming.
 - **Bootstrap**: CSS framework for responsive design.
