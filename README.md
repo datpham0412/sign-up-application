@@ -25,7 +25,7 @@ The **Sign-Up Application** is a simple MERN (MongoDB, Express, React, Node.js) 
 - Data storage in MongoDB.
 - Responsive design using Bootstrap.
 
-## 🚀 Installation and Running the Project
+## 🚀Installation and Running the Project
 
 ### Prerequisites
 
