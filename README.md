@@ -1,9 +1,9 @@
 # 🚀 Sign-Up Application with MERN Stack
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/datpham0412/sign-up-application/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/sign-up-application)](https://github.com/datpham0412/sign-up-application/issues)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/sign-up-application)](https://github.com/datpham0412/sign-up-application/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/sign-up-application)](https://github.com/datpham0412/sign-up-application/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/datpham0412/sign-up-application)](https://github.com/datpham0412/sign-up-application/issues)
+[![GitHub stars](https://img.shields.io/github/stars/datpham0412/sign-up-application)](https://github.com/datpham0412/sign-up-application/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/datpham0412/sign-up-application)](https://github.com/datpham0412/sign-up-application/network/members)
 
 ## 📋 Project Description
 
@@ -80,8 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 📞 Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [your-email@example.com](mailto:tiendat041202@gmail.com).
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/datpham0412)
